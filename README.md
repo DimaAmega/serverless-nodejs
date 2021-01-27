@@ -11,7 +11,7 @@
 
 1. Install:
     ```
-    npm i @selectel/sels8s
+    npm i @selectel/s8s
     ```
 2. Go to [Cloud platform](https://my.selectel.ru/vpc) -> All users. Create new user (or use existing one) and add it to your project.
 3. Go to Cloud platform -> Access. Select user and any region. Click on "Download" button. rc.sh file will be downloaded.
@@ -23,7 +23,7 @@
     - OS_USER_DOMAIN_NAME
 5. Create your own cloud function:
     ```
-   const client = require("sels8s");
+   const client = require("@selectel/s8s");
    
    const functionConfig = {
      action_name: "my_first_function",
