@@ -3,7 +3,7 @@
 
 1. [Quick Start](#Quick-Start)
 2. [Examples](#Examples)
-3. [Features](#Features)
+3. [Useful](#Useful)
 4. [Community](#Community)
 5. [Licensing](#Licensing)
 
@@ -66,11 +66,13 @@
 You can see examples of using cloud functions
 [here](https://github.com/selectel/serverless_functions_examples_nodejs)
 
-## Features
+## Useful
 
-[Cloud functions](https://selectel.ru/services/cloud/serverless/)
+[Description](https://selectel.ru/services/cloud/serverless/)
 
-[Docs](https://kb.selectel.ru/docs/selectel-cloud-platform/serverless/description/)
+[Docs](https://kb.selectel.com/docs/selectel-cloud-platform/serverless/description/)
+
+[Serverless API](https://developers.selectel.com/docs/selectel-cloud-platform/serverless_api/)
 
 ## Community
 
