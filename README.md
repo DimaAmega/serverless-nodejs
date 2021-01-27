@@ -80,4 +80,4 @@ For all questions - sls@selectel.ru
 
 ## Licensing
 
-Serverless is licensed under the [MIT License](https://github.com/selectel/serverless-nodejs/LICENSE).
+Serverless is licensed under the [APACHE License](https://github.com/selectel/serverless-nodejs/blob/main/LICENSE).
