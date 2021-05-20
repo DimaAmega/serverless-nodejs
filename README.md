@@ -17,7 +17,7 @@
 3. Go to Cloud platform -> Access. Select user and any region. Click on "Download" button. rc.sh file will be downloaded.
 4. Set environment variables (you can get them from rc.sh file):
     - OS_USERNAME
-    - OS_PASSWORD
+    - OS_PASSWORD (this one isn't stored in rc.sh)
     - OS_PROJECT_ID
     - OS_PROJECT_DOMAIN_NAME
     - OS_USER_DOMAIN_NAME

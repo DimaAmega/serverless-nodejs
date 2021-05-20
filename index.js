@@ -178,4 +178,12 @@ client.deleteFeed = (name) => {
   return api.delete(`${API_URL}/feeds/${name}`);
 };
 
+client.getLimits = () => {
+  return api.get(`${API_URL}/projects/limits`);
+};
+
+client.changeLimits = (payload) => {
+  return api.put(`${API_URL}/projects/limits`, payload);
+};
+
 module.exports = client;
