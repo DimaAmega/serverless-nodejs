@@ -11,5 +11,11 @@
   },
   "devDependencies": {
     "prettier": "2.2.1"
-  }
+  },
+  "keywords": [
+    "serverless",
+    "cloud",
+    "s8s",
+    "faas"
+  ]
 }
