@@ -76,9 +76,8 @@ You can see examples of using cloud functions
 
 ## Community
 
-[GitHub](https://github.com/selectel/serverless-nodejs)
+[Telegram](https://t.me/SelectelCommunity)
 
-For all questions - sls@selectel.ru
 
 ## Licensing
 
