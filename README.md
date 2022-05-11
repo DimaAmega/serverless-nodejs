@@ -22,7 +22,7 @@
     - OS_PROJECT_DOMAIN_NAME
     - OS_USER_DOMAIN_NAME
 5. Create your own cloud function:
-    ```
+    ```js
    const client = require("@selectel/s8s");
    
    const functionConfig = {
